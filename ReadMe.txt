@@ -14,7 +14,7 @@ stackoverflow.vcproj
     information about the platforms, configurations, and project features selected with the
     Application Wizard.
 
-stackoverflow.cpp
+stackove   rflow.cpp  
     This is the main application source file.
 
 /////////////////////////////////////////////////////////////////////////////
